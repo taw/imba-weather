@@ -1,6 +1,6 @@
 # imba-weather
 
-Weather App in Imba
+Weather App in Imba. [You can see in in action here](https://taw.github.io/imba-weather).
 
 ## Install dependencies
 
