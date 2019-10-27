@@ -438,9 +438,9 @@ body {
   body .weather-box {
     background-color: #8dd;
     min-height: 28em;
-    min-width: 40em;
-    max-height: 80vh;
-    max-width: 80vw;
+    max-height: 90vh;
+    width: 40em;
+    max-width: 90vw;
     text-align: center;
     background: #488;
     border: 5px solid yellow;
