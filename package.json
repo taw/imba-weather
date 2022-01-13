@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "css-loader": "^1.0.1",
     "express": "^4.16.2",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
